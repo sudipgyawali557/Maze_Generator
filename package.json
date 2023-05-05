@@ -1,0 +1,24 @@
+{
+  "name": "maze_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cell.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudipgyawali557/Maze_Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudipgyawali557/Maze_Generator/issues"
+  },
+  "homepage": "https://github.com/sudipgyawali557/Maze_Generator#readme",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jest-canvas-mock": "^2.5.0",
+    "jest-environment-jsdom": "^29.5.0"
+  }
+}
